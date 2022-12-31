@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Mis documentos\\servando\\source\\repos\\2022\\GASTOS_EXTRAS_fer cajas\\GASTOS_EXTRAS_CAJAS.vbproj": {}
+  },
+  "projects": {
+    "C:\\Mis documentos\\servando\\source\\repos\\2022\\GASTOS_EXTRAS_fer cajas\\GASTOS_EXTRAS_CAJAS.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Mis documentos\\servando\\source\\repos\\2022\\GASTOS_EXTRAS_fer cajas\\GASTOS_EXTRAS_CAJAS.vbproj",
+        "projectName": "GASTOS_EXTRAS",
+        "projectPath": "C:\\Mis documentos\\servando\\source\\repos\\2022\\GASTOS_EXTRAS_fer cajas\\GASTOS_EXTRAS_CAJAS.vbproj",
+        "packagesPath": "C:\\Users\\MXL1500Q3Q\\.nuget\\packages\\",
+        "outputPath": "C:\\Mis documentos\\servando\\source\\repos\\2022\\GASTOS_EXTRAS_fer cajas\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MXL1500Q3Q\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1537.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

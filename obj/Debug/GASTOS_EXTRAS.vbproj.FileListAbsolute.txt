@@ -1,0 +1,384 @@
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.exe.config
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.exe
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.pdb
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.xml
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Resources.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.GenerateResource.cache
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.CoreCompileInputs.cache
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.exe
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.xml
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.pdb
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form1.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form2.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.locate.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.catalogo.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form3.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.exe.config
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.CopyComplete
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form4.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.FRM_SOLICITUD.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.FormReporte.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.FormReporte_pagado_nopagado.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\wFcLibrary1_REPORTE_GASTOS_EXTRAS.dll
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\wFcLibrary1_REPORTE_GASTOS_EXTRAS.pdb
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.GASTOS_REPETIDOS.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.MDIParent1.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form2_LIS.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.liquidaciones.resources
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.AssemblyReference.cache
+C:\Users\MXL1500Q3Q\source\repos\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.SuggestedBindingRedirects.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.exe.config
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.exe
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.pdb
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.xml
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\wFcLibrary1_REPORTE_GASTOS_EXTRAS.pdb
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.AssemblyReference.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.SuggestedBindingRedirects.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.catalogo.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form1.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form2.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form2_LIS.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form3.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form4.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.FormReporte.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.FormReporte_pagado_nopagado.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.FRM_SOLICITUD.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.GASTOS_REPETIDOS.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.liquidaciones.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.locate.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.MDIParent1.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Resources.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.GenerateResource.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.CoreCompileInputs.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.CopyComplete
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.exe
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.xml
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.pdb
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.exe.config
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.exe
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.pdb
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.xml
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Office.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\wFcLibrary1_REPORTE_GASTOS_EXTRAS.pdb
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.AssemblyReference.cache
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.exe.config
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.catalogo.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form1.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form2.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form2_LIS.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form3.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Form4.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.FormReporte.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.FormReporte_pagado_nopagado.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.FRM_SOLICITUD.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.GASTOS_REPETIDOS.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.liquidaciones.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.locate.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.MDIParent1.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.Resources.resources
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.GenerateResource.cache
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.CoreCompileInputs.cache
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.vbproj.CopyComplete
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.exe
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.xml
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.pdb
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.exe.manifest
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\bin\Debug\GASTOS_EXTRAS.application
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.exe.manifest
+C:\Users\MXL6180YJF\Downloads\GASTOS_EXTRAS\GASTOS_EXTRAS\obj\Debug\GASTOS_EXTRAS.application
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\GASTOS_EXTRAS.exe.config
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\GASTOS_EXTRAS.exe.manifest
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\GASTOS_EXTRAS.application
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\GASTOS_EXTRAS.exe
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\GASTOS_EXTRAS.pdb
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\GASTOS_EXTRAS.xml
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\wFcLibrary1_REPORTE_GASTOS_EXTRAS.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\bin\Debug\wFcLibrary1_REPORTE_GASTOS_EXTRAS.pdb
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.vbproj.AssemblyReference.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.vbproj.SuggestedBindingRedirects.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.catalogo.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.Form1.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.Form2.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.Form2_LIS.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.Form3.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.Form4.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.FormReporte.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.FormReporte_pagado_nopagado.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.FRM_SOLICITUD.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.GASTOS_REPETIDOS.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.liquidaciones.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.locate.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.MDIParent1.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.Resources.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.vbproj.GenerateResource.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.vbproj.CoreCompileInputs.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.exe.manifest
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.application
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.vbproj.CopyComplete
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.exe
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.xml
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer\obj\Debug\GASTOS_EXTRAS.pdb
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\GASTOS_EXTRAS.exe.config
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\GASTOS_EXTRAS.exe.manifest
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\GASTOS_EXTRAS.application
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\GASTOS_EXTRAS.exe
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\GASTOS_EXTRAS.pdb
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\GASTOS_EXTRAS.xml
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\wFcLibrary1_REPORTE_GASTOS_EXTRAS.dll
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\bin\Debug\wFcLibrary1_REPORTE_GASTOS_EXTRAS.pdb
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.vbproj.AssemblyReference.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.vbproj.SuggestedBindingRedirects.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.catalogo.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.Form1.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.Form2.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.Form2_LIS.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.Form3.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.Form4.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.FormReporte.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.FormReporte_pagado_nopagado.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.FRM_SOLICITUD.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.GASTOS_REPETIDOS.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.liquidaciones.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.locate.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.MDIParent1.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.Resources.resources
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.vbproj.GenerateResource.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.vbproj.CoreCompileInputs.cache
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.exe.manifest
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.application
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.vbproj.CopyComplete
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.exe
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.xml
+C:\Mis documentos\servando\source\repos\2022\GASTOS_EXTRAS_fer cajas\obj\Debug\GASTOS_EXTRAS.pdb
